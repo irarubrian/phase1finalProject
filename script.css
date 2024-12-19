@@ -1,0 +1,50 @@
+body {
+    font-family: verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightcoral;
+    color: purple;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4caf50;
+    color: pink;
+    padding: 10px 20px;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 10px;
+    font-style: italic;
+  }
+  
+  #weatherContainer {
+    padding: 20px;
+  }
+  
+  .dark-mode {
+    background-color: olivedrab;
+    color: red;
+  }
+  h2{
+    background-color: blueviolet;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 20;
+  }
+  #placeholder{
+    background-color: blue;
+    font-style: oblique;
+    color: #4caf50;
+
+
+  }
